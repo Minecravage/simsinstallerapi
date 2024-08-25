@@ -1,0 +1,17 @@
+{
+    "mods": [
+        {
+            "id": "random-string",
+            "name": "Mod A",
+            "description": "Description du Mod A",
+            "website": "http://example.com/mod-a",
+            "download-url": "http://example.com/mod-a",
+            "dependencies-add-on": "False",
+            "dependencies-mods": "False",
+            "author": "Minecravage",
+            "version": "1.0.0",
+            "lang": "en",
+            "translation-fr-id": ""
+        }
+    ]
+}
