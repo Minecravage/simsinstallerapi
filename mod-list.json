@@ -1,7 +1,7 @@
 [
     {
         "id": "random-string",
-        "name": "Mod A",
+        "name": "Mod",
         "description": "Description du Mod A",
         "website": "http://example.com/mod-a",
         "download-url": "http://example.com/mod-a",
