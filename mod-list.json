@@ -1,15 +1,28 @@
 [
     {
-        "id": "random-string",
-        "name": "Mod",
-        "description": "Description du Mod A",
-        "website": "http://example.com/mod-a",
-        "download-url": "http://example.com/mod-a",
+        "id": "1",
+        "name": "AstroBluu - Teen Jobs Collection V2",
+        "description": "",
+        "website": "https://www.curseforge.com/sims4/mods/teen-jobs-collection",
+        "download-url": "https://www.curseforge.com/api/v1/mods/542023/files/5617497/download",
         "dependencies-add-on": "False",
         "dependencies-mods": "False",
-        "author": "Minecravage",
-        "version": "1.0.0",
+        "author": "AstroBluu",
+        "version": "2",
         "lang": "en",
-        "translation-fr-id": ""
+        "translation-fr-id": "2"
+    }
+    {
+        "id": "2",
+        "name": "Translation of AstroBluu - Teen Jobs Collection V2",
+        "description": "",
+        "website": "Later...",
+        "download-url": "https://cdn.simfileshare.net/download/4906315/?dl",
+        "dependencies-add-on": "False",
+        "dependencies-mods": "False",
+        "author": "Mineravage",
+        "version": "1",
+        "lang": "fr",
+        "translation-fr-id": "IAT_1"
     }
 ]
